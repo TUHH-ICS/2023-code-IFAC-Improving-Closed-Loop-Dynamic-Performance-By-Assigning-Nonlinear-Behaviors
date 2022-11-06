@@ -1,7 +1,6 @@
 
-
 This repository contains the code for
-"Improving Closed-Loop Dynamic Performance By Assigning Nonlinear Behaviors: Taking Advantages of Concavity Based on Lyapunov Function Methods " submitted for IFAC 2023.
+"Improving Closed-Loop Dynamic Performance By Assigning Nonlinear Behaviors: Taking Advantages of Concavity Based on Lyapunov Function Methods ".
 
 Reminder:
 The simulations contain two case, a linear case and a nonlinear case. 
