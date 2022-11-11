@@ -1,4 +1,4 @@
-[](url) https://doi.org/10.5281/zenodo.7314513
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7314513.svg)](https://doi.org/10.5281/zenodo.7314513)
 
 This repository contains the code for
 "Improving Closed-Loop Dynamic Performance By Assigning Nonlinear Behaviors: Taking Advantages of Concavity Based on Lyapunov Function Methods ".
